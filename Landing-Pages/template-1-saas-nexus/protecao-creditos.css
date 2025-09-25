@@ -1,0 +1,20 @@
+#creditos-autor-2025 {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    position: relative !important;
+    z-index: 9999 !important;
+}
+
+#creditos-autor-2025[style*="display: none"] {
+    display: block !important;
+}
+
+#creditos-autor-2025 {
+    animation: pulseCreditos 6s infinite;
+}
+
+@keyframes pulseCreditos {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.95; }
+}
