@@ -4,9 +4,8 @@
 
 ![GitHub](https://img.shields.io/badge/HTML5-Templates-E34F26?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)
 
-**Coleção de 15 templates HTML5 modernos e profissionais**  
+**Coleção de templates HTML5 modernos e profissionais**  
 *Desenvolvidos com as melhores práticas de web design*
 
 [👨‍💻 Portfólio](https://fabiowlademir.github.io/) • 
@@ -15,43 +14,56 @@
 
 </div>
 
-## 📋 Catálogo de Templates
+## 🚀 Template Disponível
 
-### 🎯 Landing Pages (3)
-- **Nexus SaaS** - Template para startups de software
-- **Mobile App** - Apresentação de aplicativos
-- **Agência Digital** - Site para agências criativas
+### 🎯 Nexus SaaS - Landing Page
+- **Localização:** `Landing-Pages/template-1-saas-nexus/`
+- **Descrição:** Template moderno para startups de software
+- **Recursos:** Design responsivo, animações suaves, otimizado para SEO
+
+## 📋 Próximos Templates
+
+### 🎯 Landing Pages (2 restantes)
+- [ ] Mobile App Showcase
+- [ ] Agência Digital
 
 ### 💼 Portfólios Criativos (3)
-- **Designer Portfolio** - Para designers e artistas
-- **Fotógrafo Pro** - Galeria profissional
-- **Dev Portfolio** - Portfólio para desenvolvedores
+- [ ] Designer Portfolio
+- [ ] Fotógrafo Professional  
+- [ ] Dev Portfolio
 
 ### 🛒 E-commerce (2)
-- **Loja Moderna** - E-commerce responsivo
-- **Produto Digital** - Venda de infoprodutos
+- [ ] Loja Moderna
+- [ ] Produto Digital
 
 ### 📰 Blogs & Notícias (2)
-- **Blog Pessoal** - Layout clean para escritores
-- **Portal Notícias** - Site de notícias moderno
+- [ ] Blog Pessoal
+- [ ] Portal Notícias
 
 ### 📊 Dashboards Admin (2)
-- **Admin Clean** - Painel administrativo
-- **Analytics** - Dashboard de analytics
+- [ ] Admin Clean
+- [ ] Analytics Dashboard
 
 ### ⚡ SaaS & Apps (2)
-- **SaaS Basic** - Modelo para software
-- **App Management** - Gerenciamento de apps
+- [ ] SaaS Basic
+- [ ] App Management
 
 ### 🌐 One Page Sites (1)
-- **OnePage Completo** - Site one page multifuncional
+- [ ] OnePage Completo
 
 ## 🚀 Como Usar
 
-1. **Escolha um template** da lista acima
-2. **Clone ou baixe** a pasta do template
-3. **Personalize** cores e conteúdo
-4. **Mantenha os créditos** conforme licença
+1. Navegue até a pasta do template desejado
+2. Baixe os arquivos (`index.html` e `style.css`)
+3. Personalize cores e conteúdo
+4. **Mantenha os créditos** do autor no rodapé
+
+## 🔒 Sistema de Proteção
+
+Todos os templates incluem proteção automática que:
+- ✅ Impede remoção dos créditos
+- ✅ Restaura automaticamente se removido
+- ✅ Detecta tentativas de ocultação
 
 ## 👨‍💻 Autor
 
@@ -60,17 +72,13 @@
 - 🎨 [Blog F2TI](https://f2ti.blogspot.com/)
 - 📱 [WhatsApp: (51) 99888-3187](https://wa.me/5551998883187)
 
-## 📄 Licença
-
-MIT License - **É obrigatório manter os créditos do autor** nos arquivos.
-
 ---
 
 <div align="center">
 
-### ⭐️ Gostou do projeto?
+### 💝 Apoie este projeto
 
-Se esses templates foram úteis para você, considere dar uma **estrela** no repositório!
+Se estes templates forem úteis para você, considere ⭐️ **dar uma estrela** no repositório!
 
 **Desenvolvido com ❤️ por [Fábio Wlademir](https://fabiowlademir.github.io/)**
 
