@@ -50,6 +50,23 @@
 
 ### 🌐 One Page Sites (1)
 - [ ] OnePage Completo
+https://github.com/fabiowlademir/Templates-Fabio-Wlademir/
+│
+├── 📄 README.md (já existe)
+├── 📄 LEIA-ME.md (já existe)
+├── 🔒 LICENSE (você vai criar)
+├── 📋 CONTRIBUTING.md (opcional)
+│
+├── 🎯 Landing-Pages/ (nova pasta)
+│   ├── template-1-saas-nexus/ (nova pasta)
+│   │   ├── index.html (novo arquivo)
+│   │   └── style.css (novo arquivo)
+│   ├── template-2-app-mobile/ (depois)
+│   └── template-3-agencia-digital/ (depois)
+│
+├── 💼 Portfolios-Criativos/ (depois)
+├── 🛒 E-commerce/ (depois)
+└── ... outras pastas
 
 ## 🚀 Como Usar
 
